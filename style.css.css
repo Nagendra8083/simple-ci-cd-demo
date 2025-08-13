@@ -1,0 +1,34 @@
+.main{
+	background: url('pat.png');
+}
+.parent{
+	height: 800px;width: 900px;background: white; margin: 0 auto;margin-top:30px ; border-radius: 10px;
+}
+.header{
+	height: 100px;width: 900px;
+
+
+	-webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-topright: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+
+border-bottom: 5px solid green;
+}
+.banner{
+	height: 300px;width: 900px;background: yellow;
+}
+
+.bannerimg{
+	height: 300px; width: 900px;
+}
+.services{
+
+	height: 100px;width: 900px;background: url('pat2.png');color: white;
+}
+.sub{
+	width: 223px; height: 100px;float: left;border-right: 2px solid white;
+}
